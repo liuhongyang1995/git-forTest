@@ -5,6 +5,8 @@ package com.example.git.test;
  **/
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("master");
+    System.out.println("dev-100");
+    System.out.println("master");
+
     }
 }
